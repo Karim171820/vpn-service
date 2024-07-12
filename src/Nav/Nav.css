@@ -1,0 +1,41 @@
+.Nav-container
+{
+    margin-top: 2rem;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.Nav-Elements-container
+{
+    flex: 1;
+}
+.Nav-Elements{
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+    flex: 1; /* Adjusts the size to ensure it centers between title and button */
+
+}
+
+.Nav-Element{
+    list-style-type: none;
+}
+
+.logo-container
+{
+    display: flex;
+    flex: 0.3;
+    justify-content: flex-end;
+}
+.logo-text
+{
+    margin-left: 10px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}

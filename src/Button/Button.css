@@ -1,0 +1,16 @@
+.SignInBtn
+{
+        background-color:white;
+        color: firebrick;
+        border: 1;
+        border-color: red;
+        flex: 0.1;
+        padding: 10px 24px;
+        margin-right: 5rem;
+        border-radius: 50px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+}
+.SignInBtn:hover {
+    background-color:darkolivegreen;
+}

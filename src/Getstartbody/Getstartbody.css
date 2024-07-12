@@ -1,0 +1,41 @@
+
+
+.GetStartbody-container {
+    display: flex;
+    padding: 20px;
+}
+.GetStartbody-text {
+    align-content: center;
+    text-align: left;
+    flex: 1;
+}
+.Header {
+    color: #0B132A;
+    font: Rubik;
+    font-size: 50px;
+    font-weight: 700;
+    size: 20px;
+    line-height: 50px;
+    justify-content: flex-end;
+
+}
+.GetStartbody-content {
+    margin-bottom: 20px;
+    
+}
+.GetStartbody-button {
+    background-color: firebrick;
+    color: white;
+    border: none;
+    padding: 15px 60px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.GetStartbody-Image {
+    width: auto;
+}
+.GetStartbody-Image-container
+{
+    flex: 1;
+}
