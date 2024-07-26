@@ -1,0 +1,8 @@
+.MapChart-Container
+{
+  width: '10%';
+  height: '10%';
+  justify-content: center;
+  text-align: center;
+  flex: 1;
+}

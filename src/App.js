@@ -3,6 +3,7 @@ import './App.css';
 import Nav from './Nav/Nav.js'
 import Getstartbody from './Getstartbody/Getstartbody.js';
 import Cardslabel from './Cardslabel/Cardslabel.js';
+import MapChart from './WorldMap/MapChart.js';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
     <Nav></Nav>
     <Getstartbody></Getstartbody>
     <Cardslabel></Cardslabel>
+    <MapChart></MapChart>
     </>
   );
 }
